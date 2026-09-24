@@ -1,4 +1,3 @@
-# Third attempt at writing the ssh_triage script, not from memory
 failedLogins = {}
 successfulLogins = {}
 suspiciousLogins = {}
